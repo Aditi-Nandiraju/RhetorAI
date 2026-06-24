@@ -1,4 +1,5 @@
 deployed app: https://app-bi5zzme0zv29.appmedo.com/
+
 devpost submission: https://devpost.com/software/rhetorai
 
 Inspiration
