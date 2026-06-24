@@ -22,11 +22,6 @@ Real-time analytics visualization
 Guest and authenticated user flows
 Instead of relying entirely on unrestricted AI generation, we designed a curated debate response system combined with personality-driven conversational logic to create more stable, focused, and immersive debate experiences.
 
-Challenges we ran into
-One of the biggest challenges was balancing visual effects and usability. Early versions of the interface used aggressive animations and transitions that made the layout feel unstable, so we refined the experience with smoother and more subtle interactions.
-
-Another challenge was maintaining distinct AI personality behavior while ensuring debate responses stayed coherent and relevant. We also had to simplify and restructure prompts multiple times to improve consistency during application generation.
-
 Built With:
 
 css
