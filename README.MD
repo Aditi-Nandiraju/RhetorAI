@@ -1,4 +1,5 @@
 deployed app: https://app-bi5zzme0zv29.appmedo.com/
+devpost submission: https://devpost.com/software/rhetorai
 
 Inspiration
 We wanted to create a platform that makes debate practice more accessible, interactive, and engaging. Many students and professionals struggle with communication, critical thinking, and public speaking, but traditional debate practice often requires other people, formal settings, or consistent feedback. We were inspired by the idea of combining AI personalities, real-time analytics, and immersive UI design to create a futuristic debate training experience that anyone could use instantly.
